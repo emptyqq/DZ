@@ -1,0 +1,17 @@
+print ("aloha") #приветствие
+myAge = "17" #Возраст
+myName = "Maxim" #имя
+mySurname = "Nikolaev" #фамилия
+ILive = "VelikyNovgorod" #город
+IStudy = "NSK" #место учёбы
+mySpecialty = "Information Systems by Industry" #специальность/профессия
+print("Menya zovut", myName, mySurname, "mesto prozhivaniya", ILive, "ya uchus' v", IStudy, "po spetsial'nosti", mySpecialty) #типа все, что было выше...
+WhatIDo = "nichem ne zanimayus', igrayu v igry i splyu" #чем занимаюсь
+print("Сhem ya zanimayus'", WhatIDo)
+WhatIWant = "nauchit'sya kodit' i nichego ne delat'" #что я хочу
+print("Chego ya khochu", WhatIWant)
+ILike = "nichego ne delat'" #нравится
+print("Mne nravitsya", ILike)
+IDoNotLike = "chto-to delat'" #не нравится
+print("Mne ne nravitsya", IDoNotLike)
+print("aloha") #прощание
